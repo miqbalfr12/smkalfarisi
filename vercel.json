@@ -5,6 +5,10 @@
         "api/index.php": { "runtime": "vercel-php@0.6.2" }
     },
     "routes": [
+        { "src": "/build/assets/(.*)", "dest": "/public/build/assets/" },
+        { "src": "/img/(.*)", "dest": "/public/img/" },
+        { "src": "/favicon.ico", "dest": "/public/favicon.ico" },
+        { "src": "/logo.png", "dest": "/public/logo.png" },
         {
             "src": "/(.*)",
             "dest": "/api/index.php"
@@ -14,6 +18,7 @@
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_URL": "https://smkalfarisi.reidteam.web.id",
+        "ASSET_URL": "https://smkalfarisi.reidteam.web.id",
         "APP_KEY": "base64:UcqRYCxj6WeUTrjizfSeqA/E3oRYnFs2burMLPl/CBs=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
