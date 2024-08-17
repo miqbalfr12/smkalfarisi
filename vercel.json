@@ -14,6 +14,7 @@
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_URL": "https://smkalfarisi.reidteam.web.id",
+        "APP_KEY": "base64:UcqRYCxj6WeUTrjizfSeqA/E3oRYnFs2burMLPl/CBs=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",

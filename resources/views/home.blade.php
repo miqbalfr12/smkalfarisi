@@ -1,5 +1,5 @@
 <x-layouts.app title="SMK Al-Farisi Leles Garut">
-    <div class="bg-[url('/img/jumbotron.jpg')] bg-cover bg-center h-[372px]">
+    <div class="bg-[url('https://smkalfarisi.reidteam.web.id/img/jumbotron.jpg')] bg-cover bg-center h-[372px]">
         <div class="flex flex-col w-full gap-4 p-4 mx-auto mt-4 text-white max-w-7xl">
             <p>
                 Moto
