@@ -46,7 +46,7 @@
                 <x-molecules.navbar />
             </div>
             <button type="button" class="collapsible lg:hidden"><x-icon.titik class="w-full h-4 text-center text-white" /></button>
-            <div class="collapsible-content">
+            <div class="collapsible-content lg:hidden">
                 <x-molecules.navbar />
             </div>
         </div>
