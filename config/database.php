@@ -95,9 +95,6 @@ return [
             'prefix_indexes' => true,
             'search_path' => 'public',
             'sslmode' => 'prefer',
-            'options' => [
-                'endpoint' => 'ep-still-silence-a11pdgpa-pooler',
-            ],
         ],
 
         'sqlsrv' => [
