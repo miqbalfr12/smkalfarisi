@@ -9,6 +9,7 @@
         { "src": "/img/(.*)", "dest": "/public/img/" },
         { "src": "/favicon.ico", "dest": "/public/favicon.ico" },
         { "src": "/logo.png", "dest": "/public/logo.png" },
+        { "src": "/daftar-guru.json", "dest": "/public/daftar-guru.json" },
         {
             "src": "/(.*)",
             "dest": "/api/index.php"
