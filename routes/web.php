@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\GalleryController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -32,9 +33,7 @@ Route::get('/fasilitas', function () {
 Route::get('/ekstra-kulikuler', function () {
     return view('eskul');
 });
-Route::get('/galeri-kegiatan', function () {
-    return view('galerikegiatan');
-});
+Route::get('/galeri-kegiatan', [GalleryController::class, 'index'])->name('gallery.index');
 Route::get('/kontak', function () {
     return view('kontak');
 });

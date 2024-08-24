@@ -1,52 +1,57 @@
 <x-layouts.app title="SMK Al-Farisi Leles Garut">
     <div class="w-full p-4 mx-auto max-w-7xl">
         <x-atoms.cta text="Daftar Guru SMK-Al Farisi" />
-        <div class="flex flex-wrap h-full gap-2">
-            <a href="#TeknikKendaraanRingan" class="flex-1 p-4 bg-[#B0DCC1] font-semibold rounded-md flex items-center justify-center">
-                <p class="text-center">Teknik Kendaraan Ringan</p>
-            </a>
-            <a href="#TeknikKomputerDanJaringan" class="flex-1 p-4 bg-[#B0DCC1] font-semibold rounded-md flex items-center justify-center">
-                <p class="text-center">Teknik Komputer Dan Jaringan</p>
-            </a>
-            <a href="#Akuntansi" class="flex-1 p-4 bg-[#B0DCC1] font-semibold rounded-md flex items-center justify-center">
-                <p class="text-center">Akuntansi</p>
-            </a>
-            <a href="#TeknikSepedaMotor" class="flex-1 p-4 bg-[#B0DCC1] font-semibold rounded-md flex items-center justify-center">
-                <p class="text-center">Teknik Sepeda Motor</p>
-            </a>
-            <a href="#AdministrasiPerkantoran" class="flex-1 p-4 bg-[#B0DCC1] font-semibold rounded-md flex items-center justify-center">
-                <p class="text-center">Administrasi Perkantoran</p>
-            </a>
-            <a href="#AgribisnisTanamanPanganDanHoltikultura" class="flex-1 p-4 bg-[#B0DCC1] font-semibold rounded-md flex items-center justify-center">
-                <p class="text-center">Agribisnis Tanaman Pangan Dan Holtikultura</p>
-            </a>
+        <div class="flex items-center justify-between">
+            <div class="w-[30%] ">
+                <x-icon.jabar />
+            </div>
+            <div class="w-full px-8 text-center ">
+                <p class="font-bold text-[2vw]">YAYASAN AMINAHUSEN</p>
+                <p class="font-bold text-[3vw]">SMKS AL FARISI</p>
+                <p class="text-[1vw]">Teknik Kendaraan Ringan Otomotif-Teknik dan Bisnis Sepeda Motor-Teknik Komputer dan Jaringan-Agribisnis Tanaman Pangan dan Hortikultura-Otomatisasi dan Tata Kelola Perkantoran-Akuntansi dan Keuangan Lembaga</p>
+                <p class="font-bold text-[2vw]">TERAKREDITASI "B"</p>
+                <p class="text-[1vw]">Jalan Raya Leles No. 11 (0262) 258081 Leles - Garut</p>
+                <p class="text-[1vw]">Email: smksfarisi@gmail.com Website: www.smkalfarisi.sch.id</p>
+            </div>
+            <div class="w-[30%] ">
+                <img src="/logo.png" alt="SMK Al Farisi" >
+            </div>
         </div>
-
-        <div class="py-4" id="TeknikKendaraanRingan">
-            <h3 class="mb-2 text-2xl font-semibold">Teknik Kendaraan Ringan</h3>
-            <x-organisms.swiper />
-        </div>
-        <div class="py-4" id="TeknikKomputerDanJaringan">
-            <h3 class="mb-2 text-2xl font-semibold">Teknik Komputer Dan Jaringan</h3>
-            <x-organisms.swiper />
-        </div>
-        <div class="py-4" id="Akuntansi">
-            <h3 class="mb-2 text-2xl font-semibold">Akuntansi</h3>
-            <x-organisms.swiper />
-        </div>
-        <div class="py-4" id="TeknikSepedaMotor">
-            <h3 class="mb-2 text-2xl font-semibold">Teknik Sepeda Motor</h3>
-            <x-organisms.swiper />
-        </div>
-        <div class="py-4" id="AdministrasiPerkantoran">
-            <h3 class="mb-2 text-2xl font-semibold">Administrasi Perkantoran</h3>
-            <x-organisms.swiper />
-        </div>
-        <div class="py-4" id="AgribisnisTanamanPanganDanHoltikultura">
-            <h3 class="mb-2 text-2xl font-semibold">Agribisnis Tanaman Pangan Dan Holtikultura</h3>
-            <x-organisms.swiper />
-        </div>
-
+        <hr class="my-4 border-4 border-black">
+        <table id="data-table" class="w-full ">
+            <thead class="border-b-2 border-black/50 ">
+                <th>NO</th>
+                <th>NAMA</th>
+                <th>STATUS</th>
+                <th>TMT</th>
+                <th>JK</th>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
     </div>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        fetch('/daftar-guru.json')
+            .then(response => response.json())
+            .then(data => {
+                const tableBody = document.querySelector('#data-table tbody');
+                data.forEach(item => {
+                    const row = document.createElement('tr');
+                    row.classList.add('border-b', 'border-black/25');
+                    row.innerHTML = `
+                        <td class="text-center">${item.NO}</td>
+                        <td>${item.NAMA}</td>
+                        <td class="text-center">${item.STATUS}</td>
+                        <td class="text-center">${item.TMT}</td>
+                        <td class="text-center">${item.JK}</td>
+                    `;
+                    tableBody.appendChild(row);
+                });
+            })
+            .catch(error => console.error('Error fetching data:', error));
+    });
+    </script>
 </x-layouts.app>
 

@@ -15,26 +15,13 @@
         </ul>
     </li>
 
-    <li class="relative group">
-        <a href="/daftar-guru" class="items-center hidden lg:flex ">Guru dan Karyawan <x-icon.dropdown class="w-4 h-4 ml-4"/></a>
-        <p class="flex items-center cursor-pointer lg:hidden">Guru dan Karyawan
-            <x-icon.dropdown class="w-4 h-4 ml-4"/>
-        </p>
-        <ul class="left-0 z-10 max-h-0 mt-2 text-black transition-[max-height] duration-500 ease-in-out bg-white rounded-lg shadow-lg lg:absolute top-4 min-w-max group-hover:max-h-[300px] overflow-hidden">
-            <li><a href="/daftar-guru#TeknikKendaraanRingan" class="block px-4 py-2 rounded-lg hover:bg-gray-200">Teknik Kendaraan Ringan</a></li>
-            <li><a href="/daftar-guru#TeknikKomputerDanJaringan" class="block px-4 py-2 rounded-lg hover:bg-gray-200">Teknik Komputer Dan Jaringan</a></li>
-            <li><a href="/daftar-guru#Akuntansi" class="block px-4 py-2 rounded-lg hover:bg-gray-200">Akuntansi</a></li>
-            <li><a href="/daftar-guru#TeknikSepedaMotor" class="block px-4 py-2 rounded-lg hover:bg-gray-200">Teknik Sepeda Motor</a></li>
-            <li><a href="/daftar-guru#AgribisnisTanamanPanganDanHoltikultura" class="block px-4 py-2 rounded-lg hover:bg-gray-200">Agribisnis Tanaman Pangan Dan Holtikultura</a></li>
-        </ul>
-    </li>
+    <li><a href="/daftar-guru" >Daftar Guru</a></li>
     <li class="relative group">
         <a href="/daftar-staff" class="items-center hidden lg:flex ">Staff <x-icon.dropdown class="w-4 h-4 ml-4"/></a>
         <p class="flex items-center cursor-pointer lg:hidden">Staff
             <x-icon.dropdown class="w-4 h-4 ml-4"/>
         </p>
         <ul class="left-0 z-10 max-h-0 mt-2 text-black transition-[max-height] duration-500 ease-in-out bg-white rounded-lg shadow-lg lg:absolute top-4 min-w-max group-hover:max-h-[300px] overflow-hidden">
-            <li><a href="/daftar-staff#StafAdministrasi" class="block px-4 py-2 rounded-lg hover:bg-gray-200">Staf Administrasi</a></li>
             <li><a href="/daftar-staff#StaffDataUsaha" class="block px-4 py-2 rounded-lg hover:bg-gray-200">Staff Tata Usaha</a></li>
             <li><a href="/daftar-staff#StaffPerpustakaan" class="block px-4 py-2 rounded-lg hover:bg-gray-200">Staff Perpustakaan</a></li>
         </ul>
@@ -78,9 +65,11 @@
             <x-icon.dropdown class="w-4 h-4 ml-4"/>
         </p>
         <ul class="left-0 z-10 max-h-0 mt-2 text-black transition-[max-height] duration-500 ease-in-out bg-white rounded-lg shadow-lg lg:absolute top-4 min-w-max group-hover:max-h-[300px] overflow-hidden">
-            <li><a href="/galeri-kegiatan" class="block px-4 py-2 rounded-lg hover:bg-gray-200">Galeri</a></li>
-            <li><a href="/galeri-kegiatan" class="block px-4 py-2 rounded-lg hover:bg-gray-200">Galeri</a></li>
-            <li><a href="/galeri-kegiatan" class="block px-4 py-2 rounded-lg hover:bg-gray-200">Galeri</a></li>
+            <li><a href="/galeri-kegiatan#akkl" class="block px-4 py-2 rounded-lg hover:bg-gray-200">AKKL</a></li>
+            <li><a href="/galeri-kegiatan#atphh" class="block px-4 py-2 rounded-lg hover:bg-gray-200">ATPHH</a></li>
+            <li><a href="/galeri-kegiatan#perkantoran" class="block px-4 py-2 rounded-lg hover:bg-gray-200">PERKANTORAN</a></li>
+            <li><a href="/galeri-kegiatan#tsm" class="block px-4 py-2 rounded-lg hover:bg-gray-200">TSM</a></li>
+            <li><a href="/galeri-kegiatan#tkj" class="block px-4 py-2 rounded-lg hover:bg-gray-200">TKJ</a></li>
         </ul>
     </li>
     <li><a href="/kontak" >Kontak</a></li>
