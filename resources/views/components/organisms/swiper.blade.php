@@ -1,6 +1,32 @@
-<swiper-container class="rounded-lg mySwiper" style="--swiper-navigation-color: #11762B !important;" navigation="true"  space-between="30" slides-per-view="5" loop="true">
+<div id="my-keen-slider{{ $index }}" class="keen-slider">
     @foreach ($items as $item)
-        <swiper-slide><img src="{{ asset($path . '/' . $item) }}" class="object-cover rounded-lg h-52 w-52" /></swiper-slide>
+        <div class="keen-slider__slide number-slide{{ $loop->iteration + 1 }}"><img src="{{ asset($path . '/' . $item) }}" class="object-cover w-full rounded-lg h-52" /></div>
     @endforeach
-</swiper-container>
-<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
+</div>
+<script>
+    var slider = new KeenSlider(`#my-keen-slider{{ $index }}`, {
+    loop: true,
+    mode: "free",
+    breakpoints: {
+          "(min-width: 0px)": {
+            slides: { perView: 1, spacing: 5 },
+          },
+          "(min-width: 400px)": {
+            slides: { perView: 2, spacing: 5 },
+          },
+          "(min-width: 600px)": {
+            slides: { perView: 3, spacing: 5 },
+          },
+          "(min-width: 950px)": {
+            slides: { perView: 4, spacing: 10 },
+          },
+          "(min-width: 1200px)": {
+            slides: { perView: 5, spacing: 10 },
+          },
+        },
+    slides: {
+        perView: 5,
+        spacing: 15,
+    },
+    })
+</script>
