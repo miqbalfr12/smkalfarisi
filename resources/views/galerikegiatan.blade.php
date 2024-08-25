@@ -3,6 +3,7 @@
         rel="stylesheet"
         href="https://cdn.jsdelivr.net/npm/keen-slider@6.8.5/keen-slider.min.css"
     />
+    <script src="https://cdn.jsdelivr.net/npm/keen-slider@6.8.5/keen-slider.min.js"></script>
     <div class="w-full p-4 mx-auto max-w-7xl">
         <x-atoms.cta text="Galeri Kegiatan SMK-Al Farisi" />
 

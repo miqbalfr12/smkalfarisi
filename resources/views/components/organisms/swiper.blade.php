@@ -3,7 +3,6 @@
         <div class="keen-slider__slide number-slide{{ $loop->iteration + 1 }}"><img src="{{ asset($path . '/' . $item) }}" class="object-cover w-full rounded-lg h-52" /></div>
     @endforeach
 </div>
-<script src="https://cdn.jsdelivr.net/npm/keen-slider@6.8.5/keen-slider.min.js"></script>
 <script>
     var slider = new KeenSlider(`#my-keen-slider{{ $index }}`, {
     loop: true,
