@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\GalleryController;
+use App\Http\Controllers\JurusanController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -24,9 +25,6 @@ Route::get('/daftar-guru', function () {
 Route::get('/daftar-staff', function () {
     return view('daftarstaff');
 });
-Route::get('/program-studi', function () {
-    return view('programstudi');
-});
 Route::get('/fasilitas', function () {
     return view('fasilitas');
 });
@@ -37,3 +35,5 @@ Route::get('/galeri-kegiatan', [GalleryController::class, 'index'])->name('galle
 Route::get('/kontak', function () {
     return view('kontak');
 });
+Route::get('/program-studi', [JurusanController::class, 'index']);
+Route::get('/program-studi/{slug}', [JurusanController::class, 'show']);
