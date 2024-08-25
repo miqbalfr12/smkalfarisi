@@ -1,0 +1,583 @@
+[
+  {
+    "NO": 1,
+    "NAMA": "YUSEP YULASMANA,S.Pd.",
+    "STATUS": "GTY",
+    "TMT": 2009,
+    "JK": "L"
+  },
+  {
+    "NO": 2,
+    "NAMA": "MIFTAH ALFARUQ, S.Pd, S.KOM",
+    "STATUS": "GTY",
+    "TMT": 2009,
+    "JK": "L"
+  },
+  {
+    "NO": 3,
+    "NAMA": "HENDI, S.Pd",
+    "STATUS": "GTY",
+    "TMT": 2009,
+    "JK": "L"
+  },
+  {
+    "NO": 4,
+    "NAMA": "KAMALUDIN, S.IP",
+    "STATUS": "GTY",
+    "TMT": 2009,
+    "JK": "L"
+  },
+  {
+    "NO": 5,
+    "NAMA": "Drs. EDI WIBOWO",
+    "STATUS": "GTT",
+    "TMT": 2009,
+    "JK": "L"
+  },
+  {
+    "NO": 6,
+    "NAMA": "CIPTA LUKMANUL HAKIM, M.Pd",
+    "STATUS": "GTY*",
+    "TMT": 2009,
+    "JK": "L"
+  },
+  {
+    "NO": 7,
+    "NAMA": "HAN HAN SUBHAN, SE",
+    "STATUS": "GTT*",
+    "TMT": 2009,
+    "JK": "L"
+  },
+  {
+    "NO": 8,
+    "NAMA": "ASEP RUHIYAT, S.SoS",
+    "STATUS": "GTY*",
+    "TMT": 2009,
+    "JK": "L"
+  },
+  {
+    "NO": 9,
+    "NAMA": "DIK DIK PERMANA",
+    "STATUS": "GTY*",
+    "TMT": 2009,
+    "JK": "L"
+  },
+  {
+    "NO": 10,
+    "NAMA": "ADE WAWAN",
+    "STATUS": "PTY",
+    "TMT": 2009,
+    "JK": "L"
+  },
+  {
+    "NO": 11,
+    "NAMA": "RISTA RAHADIAN, S.Pd",
+    "STATUS": "GTY",
+    "TMT": 2009,
+    "JK": "P"
+  },
+  {
+    "NO": 12,
+    "NAMA": "NUNI NAILUTFAR, S.Pd",
+    "STATUS": "GTT",
+    "TMT": 2009,
+    "JK": "P"
+  },
+  {
+    "NO": 13,
+    "NAMA": "IDA FITRIYANA, S.T",
+    "STATUS": "GTT",
+    "TMT": 2009,
+    "JK": "P"
+  },
+  {
+    "NO": 14,
+    "NAMA": "RATNA JUNIASARI, S.Pd",
+    "STATUS": "GTY*",
+    "TMT": 2009,
+    "JK": "P"
+  },
+  {
+    "NO": 15,
+    "NAMA": "NOVIANTI, A.Md",
+    "STATUS": "PTY",
+    "TMT": 2009,
+    "JK": "P"
+  },
+  {
+    "NO": 16,
+    "NAMA": "ZAKIYAH SOFIYAH, S.Pd.",
+    "STATUS": "PTY",
+    "TMT": 2009,
+    "JK": "P"
+  },
+  {
+    "NO": 17,
+    "NAMA": "GUSTIAN SETIAWAN, S.Kom",
+    "STATUS": "GTY*",
+    "TMT": 2010,
+    "JK": "L"
+  },
+  {
+    "NO": 18,
+    "NAMA": "SONYA YULIAWATI SUTARDI, M.Pd",
+    "STATUS": "GTT",
+    "TMT": 2010,
+    "JK": "P"
+  },
+  {
+    "NO": 19,
+    "NAMA": "IDA NURSAADAH, S.Pd.I",
+    "STATUS": "GTY*",
+    "TMT": 2010,
+    "JK": "P"
+  },
+  {
+    "NO": 20,
+    "NAMA": "SITI ROHMAH,S.Pd",
+    "STATUS": "GTY*",
+    "TMT": 2010,
+    "JK": "P"
+  },
+  {
+    "NO": 21,
+    "NAMA": "YULIA, S.Pd.I",
+    "STATUS": "GTY*",
+    "TMT": 2010,
+    "JK": "P"
+  },
+  {
+    "NO": 22,
+    "NAMA": "BAMBANG TRIKUNCORO, S.Pd",
+    "STATUS": "GTY",
+    "TMT": 2011,
+    "JK": "L"
+  },
+  {
+    "NO": 23,
+    "NAMA": "PIPIN, S.Pd",
+    "STATUS": "PTY",
+    "TMT": 2011,
+    "JK": "L"
+  },
+  {
+    "NO": 24,
+    "NAMA": "SRY YENY YUNIARTI, S.Ag",
+    "STATUS": "GTY",
+    "TMT": 2011,
+    "JK": "P"
+  },
+  {
+    "NO": 25,
+    "NAMA": "ENTIS SUTISNA A.",
+    "STATUS": "PTY",
+    "TMT": 2012,
+    "JK": "L"
+  },
+  {
+    "NO": 26,
+    "NAMA": "FAHMI IDRIS, S.Tr.T",
+    "STATUS": "GTY",
+    "TMT": 2013,
+    "JK": "L"
+  },
+  {
+    "NO": 27,
+    "NAMA": "ENCENG TURMUDI",
+    "STATUS": "PTY",
+    "TMT": 2013,
+    "JK": "L"
+  },
+  {
+    "NO": 28,
+    "NAMA": "Hj. ENI ROHAENI, S.Pd., M.Si",
+    "STATUS": "GTY",
+    "TMT": 2013,
+    "JK": "P"
+  },
+  {
+    "NO": 29,
+    "NAMA": "EVI NURSILAWATI, S.Pd",
+    "STATUS": "GTY",
+    "TMT": 2013,
+    "JK": "P"
+  },
+  {
+    "NO": 30,
+    "NAMA": "INTAN ARIANTI, S.Pd",
+    "STATUS": "GTY",
+    "TMT": 2013,
+    "JK": "P"
+  },
+  {
+    "NO": 31,
+    "NAMA": "WISKA ROSALIA, S.Pd",
+    "STATUS": "GTT",
+    "TMT": 2013,
+    "JK": "P"
+  },
+  {
+    "NO": 32,
+    "NAMA": "CHAERUL ABAS, ST. M.Pd",
+    "STATUS": "GTT",
+    "TMT": 2014,
+    "JK": "L"
+  },
+  {
+    "NO": 33,
+    "NAMA": "ANGGA WIGUNA, S.Pd",
+    "STATUS": "GTY",
+    "TMT": 2014,
+    "JK": "L"
+  },
+  {
+    "NO": 34,
+    "NAMA": "MOHAMAD TASDIK",
+    "STATUS": "PTY",
+    "TMT": 2014,
+    "JK": "L"
+  },
+  {
+    "NO": 35,
+    "NAMA": "DEVI PERMANASARI, S.Pd",
+    "STATUS": "GTY",
+    "TMT": 2014,
+    "JK": "P"
+  },
+  {
+    "NO": 36,
+    "NAMA": "NIAR WINIARTI, S.Pd",
+    "STATUS": "GTY",
+    "TMT": 2014,
+    "JK": "P"
+  },
+  {
+    "NO": 37,
+    "NAMA": "SUMANTRI, S.P",
+    "STATUS": "GTT",
+    "TMT": 2015,
+    "JK": "L"
+  },
+  {
+    "NO": 38,
+    "NAMA": "TATANG MUNAWAR, S.Ag",
+    "STATUS": "GTY*",
+    "TMT": 2015,
+    "JK": "L"
+  },
+  {
+    "NO": 39,
+    "NAMA": "ROJALI",
+    "STATUS": "GTY*",
+    "TMT": 2015,
+    "JK": "L"
+  },
+  {
+    "NO": 40,
+    "NAMA": "I GUSTIAN NUGRAHA",
+    "STATUS": "PTY",
+    "TMT": 2015,
+    "JK": "L"
+  },
+  {
+    "NO": 41,
+    "NAMA": "ENTIS SUTISNA B.",
+    "STATUS": "PTY",
+    "TMT": 2015,
+    "JK": "L"
+  },
+  {
+    "NO": 42,
+    "NAMA": "DINI DIANINGRUM, S.Pd",
+    "STATUS": "GTY*",
+    "TMT": 2015,
+    "JK": "P"
+  },
+  {
+    "NO": 43,
+    "NAMA": "DIAN MARTIKASARI, S.I.Pust.",
+    "STATUS": "PTY",
+    "TMT": 2015,
+    "JK": "P"
+  },
+  {
+    "NO": 44,
+    "NAMA": "JUJU JUARIAH",
+    "STATUS": "PTY",
+    "TMT": 2015,
+    "JK": "P"
+  },
+  {
+    "NO": 45,
+    "NAMA": "SHIDIQ AMIN, S.Hum",
+    "STATUS": "GTT",
+    "TMT": 2016,
+    "JK": "L"
+  },
+  {
+    "NO": 46,
+    "NAMA": "MUSLIM NURHADI ROMADON, A.Md",
+    "STATUS": "GTY",
+    "TMT": 2016,
+    "JK": "L"
+  },
+  {
+    "NO": 47,
+    "NAMA": "USMAN ABDUL AZIS, S.P.",
+    "STATUS": "GTY",
+    "TMT": 2016,
+    "JK": "L"
+  },
+  {
+    "NO": 48,
+    "NAMA": "YENI RATNA SUMINAR, S.Pd",
+    "STATUS": "GTY*",
+    "TMT": 2016,
+    "JK": "P"
+  },
+  {
+    "NO": 49,
+    "NAMA": "NURUL HERMAN, S.Ag",
+    "STATUS": "GTY*",
+    "TMT": 2016,
+    "JK": "P"
+  },
+  {
+    "NO": 50,
+    "NAMA": "UJANG GUNAWAN,S.Pd",
+    "STATUS": "PTY",
+    "TMT": 2017,
+    "JK": "L"
+  },
+  {
+    "NO": 51,
+    "NAMA": "ASEP ROSADI, ST",
+    "STATUS": "GTY",
+    "TMT": 2018,
+    "JK": "L"
+  },
+  {
+    "NO": 52,
+    "NAMA": "RITA ROSITA, S.Pd",
+    "STATUS": "GTY",
+    "TMT": 2018,
+    "JK": "P"
+  },
+  {
+    "NO": 53,
+    "NAMA": "IQBAL WAHYUDIN, S.Pd",
+    "STATUS": "GTT",
+    "TMT": 2019,
+    "JK": "L"
+  },
+  {
+    "NO": 54,
+    "NAMA": "IMAT SUPRIATNA",
+    "STATUS": "GTY",
+    "TMT": 2019,
+    "JK": "L"
+  },
+  {
+    "NO": 55,
+    "NAMA": "YAYAN SANJAYA",
+    "STATUS": "PTY",
+    "TMT": 2019,
+    "JK": "L"
+  },
+  {
+    "NO": 56,
+    "NAMA": "ANTI TRISDIYANTI, S.Ak",
+    "STATUS": "GTY",
+    "TMT": 2019,
+    "JK": "P"
+  },
+  {
+    "NO": 57,
+    "NAMA": "HILMAN HIRMANSYAH, S.Pd",
+    "STATUS": "GTY",
+    "TMT": 2020,
+    "JK": "L"
+  },
+  {
+    "NO": 58,
+    "NAMA": "ANGGA NUGRAHA, A.Md",
+    "STATUS": "GTY",
+    "TMT": 2020,
+    "JK": "L"
+  },
+  {
+    "NO": 59,
+    "NAMA": "DENDI LUFTIAN",
+    "STATUS": "GTY",
+    "TMT": 2020,
+    "JK": "L"
+  },
+  {
+    "NO": 60,
+    "NAMA": "NURUL FAUZIAH, S.Pd",
+    "STATUS": "GTY",
+    "TMT": 2020,
+    "JK": "P"
+  },
+  {
+    "NO": 61,
+    "NAMA": "ANISA YULIANA AKBARI, S.Pd",
+    "STATUS": "GTY",
+    "TMT": 2020,
+    "JK": "P"
+  },
+  {
+    "NO": 62,
+    "NAMA": "IKBAL SETIA NUGRAHA",
+    "STATUS": "PTY",
+    "TMT": 2021,
+    "JK": "L"
+  },
+  {
+    "NO": 63,
+    "NAMA": "MUHAMMAD IKHSAN",
+    "STATUS": "PTY",
+    "TMT": 2021,
+    "JK": "L"
+  },
+  {
+    "NO": 64,
+    "NAMA": "ERI RAHMAT HERYANA",
+    "STATUS": "PTY",
+    "TMT": 2021,
+    "JK": "L"
+  },
+  {
+    "NO": 65,
+    "NAMA": "ASEP BAGJA",
+    "STATUS": "PTY",
+    "TMT": 2021,
+    "JK": "L"
+  },
+  {
+    "NO": 66,
+    "NAMA": "GITA NURSYIFA AYUSTIAPUTRI",
+    "STATUS": "GTY",
+    "TMT": 2021,
+    "JK": "P"
+  },
+  {
+    "NO": 67,
+    "NAMA": "DESI WIJAYA, S.Tr.T.",
+    "STATUS": "GTT",
+    "TMT": 2022,
+    "JK": "P"
+  },
+  {
+    "NO": 68,
+    "NAMA": "MUTIARA DEWI, S.P.",
+    "STATUS": "GTT",
+    "TMT": 2022,
+    "JK": "P"
+  },
+  {
+    "NO": 69,
+    "NAMA": "ADITYA NUGRAHA PTIBADI, S.Kom",
+    "STATUS": "GTT",
+    "TMT": 2022,
+    "JK": "L"
+  },
+  {
+    "NO": 70,
+    "NAMA": "SONI FITRIYANA",
+    "STATUS": "PTT",
+    "TMT": 2023,
+    "JK": "L"
+  },
+  {
+    "NO": 71,
+    "NAMA": "HUSNUL KOIMAH, M.Ag.",
+    "STATUS": "GTT",
+    "TMT": 2023,
+    "JK": "P"
+  },
+  {
+    "NO": 72,
+    "NAMA": "SOFI SITI SOFIAH, S.Pd.",
+    "STATUS": "GTT",
+    "TMT": 2023,
+    "JK": "P"
+  },
+  {
+    "NO": 73,
+    "NAMA": "EGI PRIADI PRATAMA, S.Tr.T.",
+    "STATUS": "GTT",
+    "TMT": 2023,
+    "JK": "L"
+  },
+  {
+    "NO": 74,
+    "NAMA": "AI RIZKI AMELIA, S.Pd.",
+    "STATUS": "GTT",
+    "TMT": 2023,
+    "JK": "P"
+  },
+  {
+    "NO": 75,
+    "NAMA": "LADYA PRATIWI",
+    "STATUS": "GTT",
+    "TMT": 2023,
+    "JK": "P"
+  },
+  {
+    "NO": 76,
+    "NAMA": "ISAN NURUL INSANI, S.Pd.",
+    "STATUS": "GTT",
+    "TMT": 2023,
+    "JK": "P"
+  },
+  {
+    "NO": 77,
+    "NAMA": "WAWAN SEPTIANA",
+    "STATUS": "GTT",
+    "TMT": 2024,
+    "JK": "L"
+  },
+  {
+    "NO": 78,
+    "NAMA": "YUSUP MAULANA",
+    "STATUS": "GTT",
+    "TMT": 2024,
+    "JK": "L"
+  },
+  {
+    "NO": 79,
+    "NAMA": "NISRINA NABILA DZAKIYYAH AINI",
+    "STATUS": "GTT",
+    "TMT": 2024,
+    "JK": "P"
+  },
+  {
+    "NO": 80,
+    "NAMA": "ANISA NURUL AINI",
+    "STATUS": "GTT",
+    "TMT": 2024,
+    "JK": "P"
+  },
+  {
+    "NO": 81,
+    "NAMA": "FARIZA ZULFALILLAH",
+    "STATUS": "GTT",
+    "TMT": 2024,
+    "JK": "P"
+  },
+  {
+    "NO": 82,
+    "NAMA": "RISNA ROSTINA",
+    "STATUS": "GTT",
+    "TMT": 2024,
+    "JK": "P"
+  },
+  {
+    "NO": 83,
+    "NAMA": "VALLINA SHINKA INDIRA",
+    "STATUS": "GTT",
+    "TMT": 2024,
+    "JK": "P"
+  }
+]

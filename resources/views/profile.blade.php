@@ -16,6 +16,9 @@
         </div>
         <h2 class="py-4 text-xl font-bold">SEJARAH</h2>
         <div class="flex flex-col gap-4 p-4 bg-gray-300">
+            <p>SMK Al Farisi Leles berdiri pada tahun 1998 atas prakarsa Drs. H. Rahmat Husen dengan tujuan [tujuan pendirian]. Sekolah ini awalnya fokus pada jurusan Teknik Kendaraan Ringan (TKJ) untuk memenuhi kebutuhan tenaga terampil di bidang otomotif.</p>
+            <p>Seiring berjalannya waktu, SMK Al Farisi Leles terus berkembang dan memperluas program studinya. Pada tahun [tahun], jurusan Teknik Sepeda Motor (TSM) dibuka untuk memberikan pilihan yang lebih beragam bagi siswa. [Tambahkan narasi mengenai perkembangan lainnya, seperti penambahan fasilitas, perubahan kurikulum, dan prestasi yang diraih].</p>
+            <p>Saat ini, SMK Al Farisi Leles berkomitmen untuk menjadi lembaga pendidikan vokasi yang unggul dan menghasilkan lulusan yang siap menghadapi dunia kerja. Dengan visi [visi sekolah] dan misi [misi sekolah], sekolah ini terus berupaya meningkatkan kualitas pendidikan dan memberikan kontribusi positif bagi masyarakat.</p>
         </div>
 
 
