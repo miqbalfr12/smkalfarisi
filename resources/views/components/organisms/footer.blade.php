@@ -4,18 +4,18 @@
             <div class="flex flex-col gap-2">
                 <h3 class="text-lg font-semibold">SMK AL FARISI</h3>
                 <p>Sekolah Menengah Kejuruan di Jawa Barat</p>
-                <div class="flex items-center space-x-2">
+                <a href="https://www.facebook.com/SmkAlFarisiLeles/?locale=id_ID" target="_blank" class="flex items-center space-x-2">
                     <x-icon.facebook class="w-5 h-5" />
-                    <span>SMKS Al Farisi</span>
-                </div>
-                <div class="flex items-center space-x-2">
+                    <span>SMKS Al-Farisi</span>
+                </a>
+                <a href="https://www.instagram.com/smk_alfarisi?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" class="flex items-center space-x-2">
                     <x-icon.instagram class="w-5 h-5" />
-                    <span>SMKS Al Farisi</span>
-                </div>
-                <div class="flex items-center space-x-2">
+                    <span>@smk_alfarisi</span>
+                </a>
+                <a href="https://youtu.be/qTAr4i4zwXg?si=zwnJbhrEWMxNvCIG" target="_blank" class="flex items-center space-x-2">
                     <x-icon.youtube class="w-5 h-5" />
-                    <span>SMKS Al Farisi</span>
-                </div>
+                    <span>SMKS AL-FARISI</span>
+                </a>
             </div>
             <div class="flex flex-col gap-2">
                 <h3 class="text-lg font-semibold">Alamat Sekolah</h3>

@@ -13,13 +13,13 @@
             </div>
 
             <div class="flex items-center space-x-4">
-                <a href="#" class="text-white hover:text-gray-200">
+                <a href="https://www.facebook.com/SmkAlFarisiLeles/?locale=id_ID" target="_blank" class="text-white hover:text-gray-200">
                     <x-icon.facebook class="w-5 h-5" />
                 </a>
-                <a href="#" class="text-white hover:text-gray-200">
+                <a href="https://www.instagram.com/smk_alfarisi?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"  class="text-white hover:text-gray-200">
                     <x-icon.instagram class="w-5 h-5" />
                 </a>
-                <a href="#" class="text-white hover:text-gray-200">
+                <a href="https://youtu.be/qTAr4i4zwXg?si=zwnJbhrEWMxNvCIG" target="_blank" class="text-white hover:text-gray-200">
                     <x-icon.youtube class="w-5 h-5" />
                 </a>
             </div>
