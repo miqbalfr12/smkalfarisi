@@ -12,7 +12,7 @@
     <div class="w-full p-4 mx-auto max-w-7xl">
         <div class="flex flex-col gap-4 p-4 bg-gray-300 md:flex-row">
             <div class="bg-white">
-                <img src="/img/pakepsek.png" alt="">
+                <img src="/img/pakepsek.jpg" alt="">
             </div>
             <div class="flex flex-col gap-2">
                 <h5 class="text-lg font-semibold">Kepala Sekolah</h5>
