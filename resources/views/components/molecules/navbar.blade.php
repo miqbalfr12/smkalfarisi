@@ -8,7 +8,7 @@
             <x-icon.dropdown class="w-4 h-4 ml-4"/>
         </p>
         <ul class="left-0 z-10 max-h-0 mt-2 text-black transition-[max-height] duration-500 ease-in-out bg-white rounded-lg shadow-lg lg:absolute top-4 min-w-max group-hover:max-h-[300px] overflow-hidden">
-            <li><a href="/profile" class="block px-4 py-2 rounded-lg hover:bg-gray-200">Profile</a></li>
+            <li><a href="/profil" class="block px-4 py-2 rounded-lg hover:bg-gray-200">Profil</a></li>
             <li><a href="/visi-misi" class="block px-4 py-2 rounded-lg hover:bg-gray-200">Visi Misi</a></li>
             <li><a href="/struktur-organisasi" class="block px-4 py-2 rounded-lg hover:bg-gray-200">Struktur Organisasi</a></li>
             <li><a href="/prestasi" class="block px-4 py-2 rounded-lg hover:bg-gray-200">Prestasi</a></li>
@@ -27,8 +27,8 @@
         </ul>
     </li>
     <li class="relative group">
-        <a href="/program-studi" class="items-center hidden lg:flex ">Program Study <x-icon.dropdown class="w-4 h-4 ml-4"/></a>
-        <p class="flex items-center cursor-pointer lg:hidden">Program Study
+        <a href="/program-studi" class="items-center hidden lg:flex ">Program Studi <x-icon.dropdown class="w-4 h-4 ml-4"/></a>
+        <p class="flex items-center cursor-pointer lg:hidden">Program Studi
             <x-icon.dropdown class="w-4 h-4 ml-4"/>
         </p>
         <ul class="left-0 z-10 max-h-0 mt-2 text-black transition-[max-height] duration-500 ease-in-out bg-white rounded-lg shadow-lg lg:absolute top-4 min-w-max group-hover:max-h-[300px] overflow-hidden">

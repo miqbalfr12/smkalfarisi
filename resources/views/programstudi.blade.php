@@ -1,6 +1,6 @@
 <x-layouts.app title="SMK Al-Farisi Leles Garut">
     <div class="w-full p-4 mx-auto max-w-7xl">
-        <x-atoms.cta text="Program Study SMK-Al Farisi" />
+        <x-atoms.cta text="Program Studi SMK-Al Farisi" />
 
         <ul class="flex flex-col h-full gap-5">
             @foreach($jurusan as $item)

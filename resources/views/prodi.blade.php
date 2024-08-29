@@ -1,6 +1,6 @@
 <x-layouts.app title="SMK Al-Farisi Leles Garut">
     <div class="w-full p-4 mx-auto max-w-7xl">
-        <x-atoms.cta text="Program Study SMK-Al Farisi" />
+        <x-atoms.cta text="Program Studi SMK-Al Farisi" />
 
         <div class="flex flex-col h-full gap-5">
             <div class="flex items-center justify-center w-full bg-center bg-cover aspect-w-16 aspect-h-9">

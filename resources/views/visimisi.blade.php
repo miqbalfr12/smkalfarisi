@@ -19,11 +19,11 @@
                 </div>
                 <div class="p-4">
                     <ol class="flex flex-col gap-2 px-4 list-decimal">
-                        <li>Unggul dalam kedisiplinan tenaga pendidik dan kependidikan.</li>
-                        <li>Unggulan dalam karakter peserta didik melalui pendidikan berbasis pesantren (boarding school).</li>
-                        <li>Unggul dalam kompetensi melalui program unggulan.</li>
-                        <li>Unggul dalam prestasi non akademik melalui bimbingan ekstrakulikuler.</li>
-                        <li>Unggul dalam berwirausaha melalui pendidikan entrepreneurship.</li>
+                        <li class="text-justify">Unggul dalam kedisiplinan tenaga pendidik dan kependidikan.</li>
+                        <li class="text-justify">Unggulan dalam karakter peserta didik melalui pendidikan berbasis pesantren (boarding school).</li>
+                        <li class="text-justify">Unggul dalam kompetensi melalui program unggulan.</li>
+                        <li class="text-justify">Unggul dalam prestasi non akademik melalui bimbingan ekstrakulikuler.</li>
+                        <li class="text-justify">Unggul dalam berwirausaha melalui pendidikan entrepreneurship.</li>
                     </ol>
                 </div>
             </div>
