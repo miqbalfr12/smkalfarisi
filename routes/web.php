@@ -7,8 +7,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('home');
 });
-Route::get('/profile', function () {
-    return view('profile');
+Route::get('/profil', function () {
+    return view('profil');
 });
 Route::get('/visi-misi', function () {
     return view('visimisi');

@@ -43,8 +43,8 @@ class JurusanController extends Controller
             [
                 'nama' => 'Administrasi Perkantoran',
                 'slug' => 'administrasi-perkantoran',
-                'path' => '/img/PERKANTORAN/2.jpg',
-                'foto' => asset('img/PERKANTORAN/1.jpg')
+                'path' => '/img/PERKANTORAN/2.jpeg',
+                'foto' => asset('img/PERKANTORAN/1.jpeg')
             ]
         ];
 
@@ -278,12 +278,12 @@ class JurusanController extends Controller
             'administrasi-perkantoran' => [
                 'nama' => 'Administrasi Perkantoran',
                 'path' => '/img/PERKANTORAN/2.jpg',
-                'foto' => asset('img/PERKANTORAN/1.jpg'),
+                'foto' => asset('img/PERKANTORAN/1.jpeg'),
                 'gambar' => [
-                    asset('img/TKR/1.jpeg'),
-                    asset('img/TKR/2.jpeg'),
-                    asset('img/TKR/4.jpeg'),
-                    asset('img/TKR/5.jpeg'),
+                    asset('img/PERKANTORAN/2.png'),
+                    asset('img/PERKANTORAN/3.jpeg'),
+                    asset('img/PERKANTORAN/4.jpeg'),
+                    asset('img/PERKANTORAN/5.jpeg'),
                 ],
                 'logo' => asset('img/AP.png'),
                 'visi' => 'Menjadi program studi unggulan yang menghasilkan lulusan profesional dan kompeten dalam administrasi perkantoran, dengan kemampuan adaptasi terhadap perkembangan teknologi dan kebutuhan dunia kerja.',
