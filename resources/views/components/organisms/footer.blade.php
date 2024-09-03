@@ -33,7 +33,7 @@
             </div>
         </div>
         <div class="flex items-center justify-center p-4 mx-auto max-w-7xl">
-            © Copyright 2024 by smkalfarisi@gmail.com All Rights Reserved.
+            © Copyright 2024 by  smkfarisi@gmail.com All Rights Reserved.
         </div>
     </div>
 </footer>

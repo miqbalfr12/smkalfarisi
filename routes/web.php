@@ -1,7 +1,10 @@
 <?php
 
+use App\Http\Controllers\EskulController;
 use App\Http\Controllers\GalleryController;
+use App\Http\Controllers\GalleryVideoController;
 use App\Http\Controllers\JurusanController;
+use App\Http\Controllers\PrestasiController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -16,9 +19,7 @@ Route::get('/visi-misi', function () {
 Route::get('/struktur-organisasi', function () {
     return view('struktur');
 });
-Route::get('/prestasi', function () {
-    return view('prestasi');
-});
+Route::get('/prestasi', [PrestasiController::class, 'index'])->name('prestasi.index');
 Route::get('/daftar-guru', function () {
     return view('daftarguru');
 });
@@ -28,10 +29,9 @@ Route::get('/daftar-staff', function () {
 Route::get('/fasilitas', function () {
     return view('fasilitas');
 });
-Route::get('/ekstra-kulikuler', function () {
-    return view('eskul');
-});
+Route::get('/ekstra-kulikuler', [EskulController::class, 'index'])->name('eskul.index');
 Route::get('/galeri-kegiatan', [GalleryController::class, 'index'])->name('gallery.index');
+Route::get('/galeri-kegiatan-video', [GalleryVideoController::class, 'index'])->name('gallery.index');
 Route::get('/kontak', function () {
     return view('kontak');
 });
