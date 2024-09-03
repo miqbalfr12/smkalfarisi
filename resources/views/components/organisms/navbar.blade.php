@@ -8,7 +8,7 @@
                 </div>
                 <div class="flex items-center justify-center space-x-2">
                     <x-icon.mail class="w-5 h-5" />
-                    <p class="hidden md:block">smkalfarisi@gmail.com</p>
+                    <p class="hidden md:block"> smkfarisi@gmail.com</p>
                 </div>
             </div>
 
