@@ -26,9 +26,12 @@
                 <p>Kepala Sekolah SMK Al Farisi</p>
             </div>
         </div>
-        <div class="bg-white shadow-xl rounded-2xl">
-            aa
-        </div>
+        @foreach ($berita as $b)
+            <div class="flex flex-col items-center justify-center gap-4 p-4 bg-white shadow-xl rounded-2xl md:flex-row">
+                <img src="{{ $b['foto'] }}" class="object-cover w-40 rounded-2xl h-52" alt="{{ $b['bold'] }}">
+                <p class="text-justify"><span class="font-bold">{{ $b['bold'] }}</span>{{ $b['berita'] }}</p>
+            </div>
+        @endforeach
     </div>
 </x-layouts.app>
 
