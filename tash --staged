@@ -1,0 +1,83 @@
+[33mcommit 70d22deeedf9d5816047f5c692399b123f06fdcc[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 5eff6b5 b221f59
+Author: miqbalfr12 <miqbalfr12@gmail.com>
+Date:   Wed Sep 4 20:18:44 2024 +0700
+
+    Merge unrelated histories
+
+[33mcommit b221f59c44704939101e3629dc956fa1d3f60e12[m
+Author: miqbalfr12 <miqbalfr12@gmail.com>
+Date:   Wed Sep 4 20:04:47 2024 +0700
+
+    first commit
+
+[33mcommit 5eff6b591faf2fe42cbf8753149a647a4a6bc60c[m
+Merge: df1f673 a8a96f6
+Author: Ubuntu <reidteam@reidteam.web.id>
+Date:   Tue Sep 3 16:40:20 2024 +0700
+
+    Merge branch 'main' of https://github.com/miqbalfr12/smkalfarisi
+
+[33mcommit a8a96f6aa2926650a595722bb407b26df448032f[m
+Author: miqbalfr12 <miqbalfr12@gmail.com>
+Date:   Tue Sep 3 16:39:23 2024 +0700
+
+    Revisi: Point 5,6,9,10 + Figma
+
+[33mcommit df1f6731adc6579852003d001b9ef7d7c0d70c3d[m
+Merge: 1c094b5 11dc3db
+Author: Ubuntu <reidteam@reidteam.web.id>
+Date:   Thu Aug 29 10:37:38 2024 +0700
+
+    Merge branch 'main' of https://github.com/miqbalfr12/smkalfarisi
+
+[33mcommit 11dc3db74655b706116520fc9a6c95fd5c4dc07d[m
+Author: miqbalfr12 <miqbalfr12@gmail.com>
+Date:   Thu Aug 29 10:35:24 2024 +0700
+
+    revisi: point 1-4, 7, 8
+
+[33mcommit 1c094b5f2476b1c1fa3ffc3b45f75f17f0aae54e[m
+Merge: f8c562b b431c47
+Author: Ubuntu <reidteam@reidteam.web.id>
+Date:   Mon Aug 26 18:08:42 2024 +0700
+
+    Merge branch 'main' of https://github.com/miqbalfr12/smkalfarisi into main
+
+[33mcommit b431c47d9370930852bb9aa5a084cb39f6baa4fc[m
+Author: miqbalfr12 <miqbalfr12@gmail.com>
+Date:   Mon Aug 26 18:06:37 2024 +0700
+
+    change image of kepsek, and add medsos
+
+[33mcommit f8c562b39ea358eded13237d5847d68f2a366f68[m
+Merge: e584242 8116af6
+Author: Ubuntu <reidteam@reidteam.web.id>
+Date:   Sun Aug 25 23:40:29 2024 +0700
+
+    Merge branch 'main' of https://github.com/miqbalfr12/smkalfarisi into main
+
+[33mcommit 8116af66cb5315a5f00f79702f70110c4217b993[m
+Author: miqbalfr12 <miqbalfr12@gmail.com>
+Date:   Sun Aug 25 23:39:46 2024 +0700
+
+    fix url
+
+[33mcommit e584242e8ea43204cd40bcb2415747b2c08a13f5[m
+Merge: 97b2a17 e06a2d4
+Author: Ubuntu <reidteam@reidteam.web.id>
+Date:   Sun Aug 25 23:36:43 2024 +0700
+
+    Merge branch 'main' of https://github.com/miqbalfr12/smkalfarisi into main
+
+[33mcommit e06a2d486bf4dfa415d97f1d0fe478d09edabe2a[m
+Author: miqbalfr12 <miqbalfr12@gmail.com>
+Date:   Sun Aug 25 23:34:54 2024 +0700
+
+    tinggaleun
+
+[33mcommit d9d434c0814e7f7363ba284e2855d2d364e98d24[m
+Author: miqbalfr12 <miqbalfr12@gmail.com>
+Date:   Sun Aug 25 23:32:37 2024 +0700
+
+    fix slider

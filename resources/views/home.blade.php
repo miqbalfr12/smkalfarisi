@@ -1,9 +1,5 @@
 <x-layouts.app title="SMK Al-Farisi Leles Garut">
-<<<<<<< HEAD
-    <div class="bg-[url('/img/TKJ/4.jpg')] bg-cover bg-center bg-black bg-opacity-50 bg-blend-multiply h-[372px]">
-=======
     <div class="bg-[url('/img/home.png')] bg-cover bg-center bg-black bg-opacity-50 bg-blend-multiply h-[372px]">
->>>>>>> b221f59c44704939101e3629dc956fa1d3f60e12
         <div class="flex flex-col w-full gap-4 p-4 mx-auto mt-4 text-white max-w-7xl">
             <p>
                 Moto
@@ -13,17 +9,10 @@
             </h3>
         </div>
     </div>
-<<<<<<< HEAD
-    <div class="w-full p-4 mx-auto max-w-7xl">
-        <div class="flex flex-col gap-4 p-4 bg-gray-300 md:flex-row">
-            <div class="w-full bg-white">
-                <img src="/img/pakepsek.png" class="object-cover h-full" alt="">
-=======
     <div class="flex flex-col w-full gap-4 p-4 mx-auto max-w-7xl">
         <div class="flex flex-col gap-4 p-4 bg-gray-300 md:flex-row">
             <div class="flex items-center justify-center w-full bg-white">
                 <img src="/img/pakepsek.png" class="object-cover h-full " alt="">
->>>>>>> b221f59c44704939101e3629dc956fa1d3f60e12
             </div>
             <div class="flex flex-col gap-2">
                 <h5 class="text-lg font-semibold">Kepala Sekolah</h5>
@@ -37,12 +26,9 @@
                 <p>Kepala Sekolah SMK Al Farisi</p>
             </div>
         </div>
-<<<<<<< HEAD
-=======
         <div class="bg-white shadow-xl rounded-2xl">
             a
         </div>
->>>>>>> b221f59c44704939101e3629dc956fa1d3f60e12
     </div>
 </x-layouts.app>
 
