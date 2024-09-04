@@ -61,7 +61,7 @@ class EskulController extends Controller
             [
                 'nama' => 'AEC',
                 'desk' => 'Komunitas yang bertujuan meningkatkan kemampuan berbahasa Inggris anggotanya melalui berbagai aktivitas seperti diskusi, latihan berbicara, dan permainan bahasa.',
-                'path' => 'img/logo/Badminton.jpeg',
+                'path' => 'img/logo/AEC.jpeg',
                 'href' => 'https://www.instagram.com/alfarisienglishclub?igsh=MmFncjViaDFrcTJ4',
             ],
         ];
