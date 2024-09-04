@@ -1,5 +1,6 @@
 <x-layouts.app title="SMK Al-Farisi Leles Garut">
     <div class="bg-[url('/img/home.png')] bg-cover bg-center bg-black bg-opacity-50 bg-blend-multiply h-[372px]">
+    <div class="bg-[url('/img/home.png')] bg-cover bg-center bg-black bg-opacity-50 bg-blend-multiply h-[372px]">
         <div class="flex flex-col w-full gap-4 p-4 mx-auto mt-4 text-white max-w-7xl">
             <p>
                 Moto
@@ -9,6 +10,7 @@
             </h3>
         </div>
     </div>
+    <div class="flex flex-col w-full gap-4 p-4 mx-auto max-w-7xl">
     <div class="flex flex-col w-full gap-4 p-4 mx-auto max-w-7xl">
         <div class="flex flex-col gap-4 p-4 bg-gray-300 md:flex-row">
             <div class="flex items-center justify-center w-full bg-white">
